@@ -36,5 +36,3 @@ https://www.unrealengine.com/marketplace/en-US/product/multiplayer-shootout
 https://docs.unrealengine.com/4.27/en-US/Basics/Projects/UIProjectConversion/
 
 https://docs.unrealengine.com/4.27/en-US/Resources/Showcases/BlueprintMultiplayer/
-
-VaREST Tuturials https://www.youtube.com/watch?v=B90jnsEJ6E0
