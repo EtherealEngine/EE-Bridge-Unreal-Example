@@ -4,9 +4,11 @@ Preinstall Requirements
 
 Add Plugins
 
-From asset store VaRest https://github.com/ufna/VaRest
-https://www.notion.so/VaRest-UE4-Plugin-40b98c54fc184033b60a42e0e4753536
-Into plugin folder - Agones SDK w/ Unreal tools https://agones.dev/site/docs/guides/client-sdks/unreal/
+- From asset store VaRest
+  - https://github.com/ufna/VaRest
+  - https://www.notion.so/VaRest-UE4-Plugin-40b98c54fc184033b60a42e0e4753536
+- Add agones plugin folder - unreal or project folder
+  - Agones SDK w/ Unreal tools https://agones.dev/site/docs/guides/client-sdks/unreal/
 
 ![Screenshot 2022-06-06 193750](https://user-images.githubusercontent.com/5104160/172296219-06d6d420-7fc4-4981-bf0a-35869768adcd.png)
 
